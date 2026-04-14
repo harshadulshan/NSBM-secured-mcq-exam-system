@@ -34,10 +34,10 @@
 <img src="screenshots/login.png" width="800" style="border-radius:12px; margin-bottom:16px;" />
 
 ### 📝 Exam Page
-<img src="screenshots/exam.png" width="800" style="border-radius:12px; margin-bottom:16px;" />
+<img src="screenshots/bar.png" width="800" style="border-radius:12px; margin-bottom:16px;" />
 
 ### 📊 Result Page
-<img src="screenshots/result.png" width="800" style="border-radius:12px; margin-bottom:16px;" />
+<img src="screenshots/grade.png" width="800" style="border-radius:12px; margin-bottom:16px;" />
 
 ### 🛠️ Admin Panel
 <img src="screenshots/admin.png" width="800" style="border-radius:12px; margin-bottom:16px;" />
