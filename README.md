@@ -87,11 +87,11 @@
 - Git
 
 ### 1️⃣ Clone the Repository
-```bash
+
 
 http://localhost:5173
 
----
+
 
 ## 🔐 Default Credentials
 
